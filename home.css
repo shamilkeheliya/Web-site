@@ -59,3 +59,29 @@
     font-family: 'Times New Roman', Times, serif;
 
   }
+
+.welcome
+{
+  font-size: 40px;
+  text-align: center;
+  margin-top: 300px;
+  color: #f0b402;
+}
+
+.rows1
+{
+  padding-top: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 100px;
+}
+
+.card-img-top
+{
+  height: 200px;
+}
+
+.card-title
+{
+  font-weight: bold;
+}
